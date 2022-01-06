@@ -1,8 +1,7 @@
 Hi, I’m @pinardeniz
 
-I’m interested in applied macro-analysis
+I’m a researcher on applied macroeconomics
 
-I’m currently learning ML
 
 Here's my website: https://sites.google.com/site/pinardenizresearch
 
